@@ -1,1 +1,1 @@
-# NKQuant-
+# NKQuant-novice task
